@@ -1,0 +1,132 @@
+﻿<UserControl x:Class="Dijital_Modul.Pages.TeacherUserControllers.ucTeacherAddBadge"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Dijital_Modul.Pages.TeacherUserControllers"
+             mc:Ignorable="d" 
+            d:DesignHeight="900" d:DesignWidth="900">
+    <Grid>
+        <!--ORTA ALAN [İÇERİK]-->
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Column="1">
+            <StackPanel>
+                <DockPanel>
+                    <Label Content="ROZET EKLEME SAYFASI" FontFamily="Times New Roman" FontSize="50" HorizontalAlignment="Center" />
+                </DockPanel>
+
+                <StackPanel x:Name="dckRozetEklemeAlani" Margin="0,30,0,0">
+
+                    <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center">
+                        <Label Content="Rozet Adı" FontWeight="Bold" Width="100" Height="30" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Times New Roman" FontSize="16"/>
+                        <Border Width="500" Height="50" CornerRadius="10" Background="Transparent" BorderThickness="0,1" BorderBrush="Black">
+                            <TextBox x:Name="txbRozetAdi" VerticalAlignment="Center" HorizontalAlignment="Left" Width="460" FontSize="20" Background="Transparent" Foreground="Gray" FontFamily="Times New Roman" BorderThickness="0" Margin="20,0,20,0" MaxLength="25" MaxLines="1" FontWeight="Normal" CharacterCasing="Upper"/>
+                        </Border>
+                    </StackPanel>
+
+
+                    <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,20,0,0" Width="500">
+                        <Label Content="Resim" FontWeight="Bold" Width="100" Height="30" HorizontalAlignment="Left" FontFamily="Times New Roman" FontSize="16"/>
+                        <DockPanel>
+                            <Border Width="200" Height="200" CornerRadius="10" Background="Transparent" BorderThickness="0,1" BorderBrush="Black" HorizontalAlignment="Left">
+                                <StackPanel  Margin="10" HorizontalAlignment="Left" VerticalAlignment="Center" Width="150" Height="150">
+                                    <Image x:Name="badgeImage"  HorizontalAlignment="Left" Source="/Pages/Images/picture.png" />
+                                    <Button Panel.ZIndex="3" Style="{DynamicResource DaireButon}"  x:Name="btn_badge_image_ekle" Margin="91,-75,1,0" Height="53" Width="58" FontSize="1500" Click="btnResimYukle_Click" />
+                                </StackPanel>
+                            </Border>
+                            
+                            
+                            <!--
+                            <Border MouseEnter="Border_MouseEnter" MouseLeave="Border_MouseLeave" BorderThickness="0,1" BorderBrush="Black" Background="Transparent">
+                                <Button Style="{DynamicResource DuzenlenmisButon}" x:Name="btnResimYukle" Content="Resim Yükle" FontSize="16" Width="150" HorizontalAlignment="Left" Height="35" FontWeight="Bold" Background="Transparent" BorderThickness="0" Click="btnResimYukle_Click"/>
+                            </Border>
+                            -->
+                            
+                        </DockPanel>
+                    </StackPanel>
+                   
+
+
+                    <StackPanel Margin="0,20,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="500">
+                        <Label Content="Sınıf seçimi" FontWeight="Bold" Width="100" Height="30" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Times New Roman" FontSize="16"/>
+                        <DockPanel>
+                            <Border BorderThickness="0,1" BorderBrush="Black" Background="Transparent" CornerRadius="10" Width="200" Height="50" HorizontalAlignment="Left">
+                                <ComboBox Style="{DynamicResource ComboBoxFlatStyle}" x:Name="cmbSinifSecim" Margin="20,0,0,0" Background="Transparent" BorderBrush="{x:Null}" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Width="160" FontFamily="Times New Roman" BorderThickness="0" Height="30" SelectionChanged="cmbSinifSecim_SelectionChanged"/>
+                            </Border>
+                           
+                        </DockPanel>
+                    </StackPanel>
+
+                    <StackPanel Margin="0,20,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="500">
+                        <Label Content="Soru seçimi" FontWeight="Bold" Width="100" Height="30" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Times New Roman" FontSize="16"/>
+                        <DockPanel>
+                            <!--
+                            <Border BorderThickness="0,1" BorderBrush="Black" Background="Transparent" CornerRadius="10" Width="200" Height="50">
+                                <ComboBox Style="{DynamicResource ComboBoxFlatStyle}" x:Name="cmbSoruSecim" Margin="20,0,0,0" Background="Transparent" BorderBrush="{x:Null}" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Left" Width="160" FontFamily="Times New Roman" BorderThickness="0" Height="30" IsEnabled="False"  />
+                            </Border>
+                            -->
+                            <ComboBox x:Name="cmbSoruSecim" Visibility="Collapsed"></ComboBox>
+
+                            <Border BorderThickness="0,1" BorderBrush="Black" Background="Transparent" CornerRadius="10" Width="200" Height="100" HorizontalAlignment="Left">
+                                <ScrollViewer HorizontalAlignment="Stretch" x:Name="scrlQuestions" ScrollViewer.VerticalScrollBarVisibility="Auto" Margin="10">
+                                    <StackPanel Name="stckQuestions" Margin="10">
+                                    </StackPanel>
+                                </ScrollViewer>
+                            </Border>
+                           
+                            <!--
+                            <Border BorderThickness="0,1" BorderBrush="Black" Background="Transparent" CornerRadius="10" Width="300" Height="400">
+                               
+                                <DataGrid x:Name="dtg_SoruSecimi" HorizontalGridLinesBrush="Transparent" VerticalGridLinesBrush="Transparent"  ItemsSource="{Binding}" BorderThickness="0"   Background="{x:Null}" >
+                                    <DataGrid.Columns  >
+                                        
+                                        <DataGridCheckBoxColumn Width="75" >
+                                            <DataGridCheckBoxColumn.CellStyle >
+                                                <Style>
+                                                    <EventSetter Event="CheckBox.Checked" Handler="OnChecked" ></EventSetter>
+                                                    <EventSetter Event="CheckBox.Unchecked" Handler="UnChecked" ></EventSetter>
+                                                </Style>
+                                            </DataGridCheckBoxColumn.CellStyle>
+                                            
+                                        </DataGridCheckBoxColumn>
+                                    </DataGrid.Columns>
+                                </DataGrid>
+                               
+                                
+                            </Border>
+                             -->
+                        </DockPanel>
+                    </StackPanel>
+                    
+
+                    <StackPanel Margin="0,20,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="500">
+                        <Label Content="Açıklama (Opsiyonel)" FontWeight="Bold" Width="200" Height="30" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Times New Roman" FontSize="16"/>
+                        <Border Width="500" Height="70" CornerRadius="10" Background="Transparent" BorderThickness="0,1" BorderBrush="Black">
+                            <TextBox x:Name="txbAciklama" Padding="10,10,10,0" FontSize="20" BorderThickness="0" TextWrapping="Wrap" MaxLength="100" Height="60" FontFamily="Times New Roman" Background="Transparent" Foreground="Gray" FontWeight="Normal" MaxLines="2"/>
+                        </Border>
+                    </StackPanel>
+
+
+                    <StackPanel Margin="0,20,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="500">
+                        <Label Content="Geçerlilik Süresi" FontWeight="Bold" Width="150" Height="30" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Times New Roman" FontSize="16"/>
+                        <DockPanel>
+                            <Border Height="30" BorderThickness="0,1" CornerRadius="10" BorderBrush="Black">
+                                <DatePicker x:Name="dtpTarih" Width="150" Height="20" FontSize="14" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Times New Roman" FirstDayOfWeek="Monday" SelectedDateFormat="Short" BorderThickness="0" Margin="20,0,20,0"/>
+                            </Border>
+                            <ComboBox Style="{DynamicResource ComboBoxFlatStyle}" x:Name="cmb_Hour" Width="50" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,5,0,0" FontSize="15"/>
+                            <Label Content=":" Foreground="Gray" FontFamily="Times New Roman"  FontSize="15" Height="30" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                            <ComboBox Style="{DynamicResource ComboBoxFlatStyle}" x:Name="cmb_Secound" Width="50" Height="30" VerticalAlignment="Top" Margin="0,5,0,0" HorizontalAlignment="Left" FontSize="15"/>
+                        </DockPanel>
+
+                    </StackPanel>
+                   
+                    <Border Width="500" Height="75" Background="Transparent" Margin="0,20,0,0" MouseEnter="Border_MouseEnter" MouseLeave="Border_MouseLeave" BorderThickness="0,1" BorderBrush="Black">
+                        <Button x:Name="btnRozetiEkle" FontWeight="Bold" Style="{DynamicResource DuzenlenmisButon}" FontSize="25" Content="ROZETİ EKLE" Foreground="Green" FontFamily="Times New Roman" Click="btnRozetiEkle_Click"/>
+                    </Border>
+
+
+                </StackPanel>
+
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

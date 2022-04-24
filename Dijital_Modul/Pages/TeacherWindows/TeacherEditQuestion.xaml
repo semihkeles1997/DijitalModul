@@ -1,0 +1,125 @@
+﻿<Window x:Class="Dijital_Modul.Pages.TeacherWindows.TeacherEditQuestion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dijital_Modul.Pages.TeacherWindows"
+        mc:Ignorable="d"
+        Title="TeacherEditQuestion" Height="800" Width="1200" Background="{x:Null}" AllowsTransparency="True" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Canvas>
+            <Image Source="/Pages/Images/logo3.png" Canvas.Left="87" Height="60" Canvas.Top="41" Width="60" Panel.ZIndex="3
+                   "/>
+            <TextBlock Text="SORU DÜZENLEME SAYFASI" FontWeight="Bold" FontSize="18" Canvas.Left="350" Canvas.Top="28" Panel.ZIndex="3" Foreground="#FFF6EDED" Height="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <!--İçindeki nesneleri sürükleyebiliyoruz-->
+            <Rectangle Height="35" Width="1000" Canvas.Left="103" Canvas.Top="23" Fill="#FF134187" Panel.ZIndex="1"/>
+            <Ellipse Height="118" Width="115" Canvas.Left="58" Canvas.Top="10" Panel.ZIndex="2" StrokeThickness="4" RenderTransformOrigin="0.5,0.5" Style="{DynamicResource donme_efekti}">
+                <Ellipse.RenderTransform>
+                    <RotateTransform/>
+                </Ellipse.RenderTransform>
+                <Ellipse.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF134187" Offset="0.997"/>
+                        <GradientStop Color="#FFFCFCFC" Offset="0.89"/>
+                        <GradientStop Color="#FFF0F2F6" Offset="0.913"/>
+                        <GradientStop Color="#FF90A5C6" Offset="0.957"/>
+                    </LinearGradientBrush>
+                </Ellipse.Fill>
+                <Ellipse.Stroke>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF134187" Offset="0"/>
+                        <GradientStop Color="White" Offset="0.713"/>
+                        <GradientStop Color="#FF4B6EA3" Offset="0.93"/>
+                        <GradientStop Color="White" Offset="0.35"/>
+                    </LinearGradientBrush>
+                </Ellipse.Stroke>
+            </Ellipse>
+
+            <Border Width="1000" Height="750" Canvas.Left="103" Canvas.Top="23" CornerRadius="0,0,50,50" Background="#FFE0E0E0">
+                <Border.Effect>
+                    <DropShadowEffect Opacity="0.35" Direction="275"/>
+                </Border.Effect>
+            </Border>
+
+            <!--Textbox ve label'lar-->
+
+            <Button Style="{DynamicResource DaireButonCikis}" Panel.ZIndex="3" Canvas.Left="1070" Canvas.Top="10" x:Name="btnKapat" Click="btnKapat_Click" BorderBrush="#FFEAEBF4" BorderThickness="2" MouseEnter="btnMouseEnter" MouseLeave="btnMouseLeave">
+                <Button.LayoutTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="12"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.LayoutTransform>
+            </Button>
+
+
+            <StackPanel Width="500" Margin="200,100,0,0">
+                <DockPanel>
+                    <TextBlock Text="Soru No:" FontWeight="Bold" FontSize="15" Width="200" TextWrapping="Wrap" FontFamily="Times New Roman"/>
+                    <TextBox x:Name="txtSoruNo" Style="{DynamicResource MouseOverImageChange_Textbox}" Width="300" Height="30" FontFamily="Times New Roman" Padding="5"/>
+                </DockPanel>
+
+                <DockPanel Margin="0,10,0,0">
+                    <TextBlock Text="Açıklama:" FontWeight="Bold" FontSize="15" Width="200" TextWrapping="Wrap" FontFamily="Times New Roman"/>
+                    <TextBox x:Name="txtAciklama" Style="{DynamicResource MouseOverImageChange_Textbox}" Width="300" Height="300" TextWrapping="Wrap" MaxLength="1000" MaxLines="99999999" FontFamily="Times New Roman" AcceptsReturn="True" Padding="5" FontSize="14" />
+                </DockPanel>
+
+                <DockPanel Margin="0,10,0,0">
+                    <TextBlock Text="Max Puan:" FontWeight="Bold" FontSize="15" Width="200" TextWrapping="Wrap" FontFamily="Times New Roman"/>
+                    <TextBox x:Name="txtMaxPuan" Style="{DynamicResource MouseOverImageChange_Textbox}" Width="300" Height="30" FontFamily="Times New Roman" Padding="5"/>
+                </DockPanel>
+
+                <DockPanel Margin="0,10,0,0">
+                    <TextBlock Text="Açılma Zamanı:" FontWeight="Bold" FontSize="15" Width="200" TextWrapping="Wrap" FontFamily="Times New Roman"/>
+                    <DatePicker x:Name="dateAcilmaZamani" Width="150" Height="30" HorizontalAlignment="Left" FontFamily="Times New Roman"/>
+                    <ComboBox x:Name="cmbAcilmaSaati" Style="{DynamicResource ComboBoxFlatStyle}" Width="50" Margin="10,0,0,0" HorizontalAlignment="Center" FontFamily="Times New Roman" Padding="10"/>
+                    <TextBlock Text=":" FontSize="25" Margin="10,0,0,0"/>
+                    <ComboBox x:Name="cmbAcilmaDakikasi" Style="{DynamicResource ComboBoxFlatStyle}" Width="50" Margin="10,0,0,0" FontFamily="Times New Roman" Padding="10"/>
+                </DockPanel>
+
+                <DockPanel Margin="0,10,0,0">
+                    <TextBlock Text="Eklenme Zamanı:" FontWeight="Bold" FontSize="15" Width="200" TextWrapping="Wrap" FontFamily="Times New Roman"/>
+                    <DatePicker x:Name="dateEklemeZamani" Width="150" Height="30" FontFamily="Times New Roman"/>
+                    <TextBox x:Name="txtEklemeSaati" Style="{DynamicResource MouseOverImageChange_Textbox}" Width="50" Height="25"  Margin="10,0,0,0" HorizontalAlignment="Center" FontFamily="Times New Roman" Padding="5"/>
+                    <TextBlock Text=":" FontSize="25" Margin="10,0,0,0"/>
+                    <TextBox x:Name="txtEklemeDakikasi" Style="{DynamicResource MouseOverImageChange_Textbox}" Width="50" Height="25" Margin="10,0,0,0" HorizontalAlignment="Center" FontFamily="Times New Roman" Padding="5"/>
+                </DockPanel>
+
+                <DockPanel Margin="0,10,0,0">
+                    <TextBlock Text="Konu Başlığı:" FontWeight="Bold" FontSize="15" Width="200" TextWrapping="Wrap" FontFamily="Times New Roman"/>
+                    <ComboBox x:Name="cmbKonuBasligi" Style="{DynamicResource ComboBoxFlatStyle}" Width="300" Height="30" FontFamily="Times New Roman" Padding="5"/>
+                </DockPanel>
+
+                <DockPanel Margin="0,10,0,0">
+                    <TextBlock Text="Soru Açık Mı?" FontWeight="Bold" FontSize="15" Width="200" TextWrapping="Wrap" FontFamily="Times New Roman"/>
+                    <CheckBox x:Name="checkSoruAcikMi" Width="200" Height="30">
+                        <CheckBox.LayoutTransform>
+                            <TransformGroup>
+                                <ScaleTransform ScaleY="1.5" ScaleX="1.5"/>
+                                <SkewTransform/>
+                                <RotateTransform/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </CheckBox.LayoutTransform>
+                    </CheckBox>
+                </DockPanel>
+
+
+
+
+            </StackPanel>
+
+
+            <Button Panel.ZIndex="3" Style="{DynamicResource DaireButon}" Canvas.Left="1000" Canvas.Top="400"  x:Name="btnResimEkle" Click="btnResimEkle_Click" Height="53" Width="58"/>
+            <!--Resim-->
+            <Image Panel.ZIndex="2" x:Name="imgSoruResmi" Source="/Pages/Images/picture.png" Width="350" Height="350" Canvas.Left="710" Canvas.Top="100"/>
+
+
+
+            <Button Content="KAYDET" FontSize="20" Panel.ZIndex="3" Style="{DynamicResource DuzenlenmisButon}" Canvas.Left="750" Canvas.Top="700"  x:Name="btnKaydet" Height="53" Width="300" Click="btnKaydet_Click"/>
+
+        </Canvas>
+    </Grid>
+</Window>

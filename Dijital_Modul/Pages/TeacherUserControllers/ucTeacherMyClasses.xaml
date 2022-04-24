@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Dijital_Modul.Pages.TeacherUserControllers.ucTeacherMyClasses"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Dijital_Modul.Pages.TeacherUserControllers"
+             mc:Ignorable="d" 
+             d:DesignHeight="900" d:DesignWidth="900">
+    <Grid>
+        <!--ORTA ALAN [İÇERİK]-->
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Column="1">
+            <StackPanel>
+                <DockPanel>
+                    <Label Content="SINIFLARIM VE ŞUBELERİM" FontFamily="Times New Roman" FontSize="50" HorizontalAlignment="Center"/>
+                </DockPanel>
+
+                <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Auto" Height="800" BorderThickness="3" BorderBrush="#FFB01C1C" Foreground="{x:Null}">
+                    <UniformGrid Columns="1" VerticalAlignment="Top" x:Name="unf" Margin="0,20,0,0"/>
+                </ScrollViewer>
+
+
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

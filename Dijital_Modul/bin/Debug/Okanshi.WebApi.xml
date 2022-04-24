@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Okanshi.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Okanshi.WebApi.OkanshiMiddleware">
+            <summary>
+            Reference for the implementation https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/http-message-handlers
+            </summary>
+        </member>
+        <member name="M:Okanshi.WebApi.OkanshiMiddleware.GetCanonicalPath(System.Net.Http.HttpRequestMessage)">
+            <summary>
+            Routes must be explicitly annotated using the [Route] attribute for them to show up correctly. If not properly annotated
+            this code will use an abstract path such as "api/{controller}/{id}" which will be the general configured fall-back path.
+            </summary>
+        </member>
+        <member name="T:Okanshi.WebApi.OkanshiWebApiOptions">
+            <summary>
+            Okanshi options
+            </summary>
+        </member>
+        <member name="P:Okanshi.WebApi.OkanshiWebApiOptions.AddStatusCodeTag">
+            <summary>
+            Should status codes be added as tags. Default value is true.
+            </summary>
+        </member>
+        <member name="P:Okanshi.WebApi.OkanshiWebApiOptions.MetricName">
+            <summary>
+            The metric name to use. Default values is Request.
+            </summary>
+        </member>
+        <member name="P:Okanshi.WebApi.OkanshiWebApiOptions.PathExtraction">
+            <summary>
+            How the request path is extracted
+            </summary>
+        </member>
+        <member name="F:Okanshi.WebApi.OkanshiWebApiOptions.TimerFactory">
+            <summary>
+            A factory method which is invoked whenever a timer is needed
+            </summary>
+        </member>
+        <member name="T:Okanshi.WebApi.RequestPathExtraction">
+            <summary>
+            How the request path is extracted
+            </summary>
+        </member>
+        <member name="F:Okanshi.WebApi.RequestPathExtraction.Path">
+            <summary>
+            Uses "request.RequestUri.LocalPath" which holds the path including any parameters within the path, e.g. customerId
+            </summary>
+        </member>
+        <member name="F:Okanshi.WebApi.RequestPathExtraction.CanonicalPath">
+            <summary>
+            Uses the canonical representation of an endpoint.
+            
+            Routes must be explicitly annotated using the [Route] attribute for them to show up correctly. If not properly annotated
+            this code will use an abstract path such as "api/{controller}/{id}" which will be the general configured fall-back path.
+            </summary>
+        </member>
+    </members>
+</doc>

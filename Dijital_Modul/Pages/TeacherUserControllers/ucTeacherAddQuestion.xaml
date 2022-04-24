@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="Dijital_Modul.Pages.TeacherUserControllers.ucTeacherAddQuestion"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Dijital_Modul.Pages.TeacherUserControllers"
+             mc:Ignorable="d" 
+              d:DesignHeight="900" d:DesignWidth="1200">
+    <Grid>
+        <Label Content="SORU EKLEME SAYFASI" FontFamily="Times New Roman" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <DockPanel Margin="0,80,0,0" >
+
+            <StackPanel Width="600" Margin="20" HorizontalAlignment="Center">
+                <DockPanel Margin="0,20,0,0" >
+                    <TextBlock Text="Soru No:" Width="175" FontSize="25" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBox Cursor="IBeam" x:Name="txtSoruNo"   FontSize="25" MaxLength="10"  Height="50" TextWrapping="Wrap"/>
+                </DockPanel>
+                <DockPanel Margin="0,20,0,0">
+                    <TextBlock Text="Ünite Başlığı:" Width="175" FontSize="25" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="cmbKonuBasligi" Style="{DynamicResource ComboBoxFlatStyle}" Height="50" FontFamily="Times New Roman" FontSize="25"  Cursor="Hand"/>
+                </DockPanel>
+                <DockPanel  Margin="0,20,0,0">
+                    <TextBlock Text="Sınıf:" Width="175" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" />
+                    <ComboBox Style="{DynamicResource ComboBoxFlatStyle}" Text="asdasd" x:Name="cmbSinif"  Height="50" Cursor="Hand" FontSize="25"/>
+                </DockPanel>
+                <DockPanel Margin="0,20,0,00">
+                    <TextBlock  Grid.RowSpan="2" Width="175" Text="Açıklama:" FontSize="25" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBox Cursor="IBeam" FontSize="25" AcceptsReturn="True" x:Name="txtAciklama"  Height="200"  TextWrapping="Wrap"/>
+                </DockPanel>
+                <DockPanel Margin="0,20,0,0">
+                    <TextBlock  Text="Max Puan:" Width="175" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" Foreground="Black"/>
+                    <TextBox  Cursor="IBeam" x:Name="txtMaxPuan"  FontSize="25" Height="50" TextWrapping="Wrap" PreviewTextInput="PreviewTextInput" DataContextChanged="txtMaxPuan_DataContextChanged"  />
+                </DockPanel>
+                <DockPanel Margin="0,20,0,0">
+                    <TextBlock  Text="Açılma Zamanı:" Width="175" FontSize="25" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <StackPanel  VerticalAlignment="Center" >
+                        <DatePicker Name="dateAcilmaZamani" Height="50" FontSize="25" />
+                    </StackPanel>
+                </DockPanel>
+                <DockPanel Margin="0,20,0,0">
+                    <TextBlock Text="Hemen Aç: " Width="175" FontSize="25" Foreground="Black"/>
+                    <CheckBox x:Name="cmbHemenAc" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" Click="cmbHemenAc_Click"/>
+                </DockPanel>
+            </StackPanel>
+            
+            <StackPanel  VerticalAlignment="Top">
+                <StackPanel  Margin="36" HorizontalAlignment="Left" VerticalAlignment="Center">
+                    <Image x:Name="questionImage"  Width="250" Height="250" Source="/Pages/Images/picture.png"/>
+                    <Button Panel.ZIndex="3" Style="{DynamicResource DaireButon}"  x:Name="btnResimEkle" Margin="200,-50,0,0" Height="53" Width="58" FontSize="1500" Click="btnResimEkle_Click" />
+                </StackPanel>
+            </StackPanel>
+        </DockPanel>
+        <Button Grid.Row="1" Cursor="Hand" Style="{DynamicResource DuzenlenmisButon}" Padding="5" Content="SORUYU KAYDET" FontSize="25" Click="Save_Button_Click" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="100" Width="350" Margin="0,30,30,30"/>
+
+    </Grid>
+</UserControl>

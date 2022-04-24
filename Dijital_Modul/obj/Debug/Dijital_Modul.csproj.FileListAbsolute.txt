@@ -1,0 +1,839 @@
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Dijital_Modul.exe.config
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Dijital_Modul.exe
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Dijital_Modul.pdb
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\MainWindow.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\Login.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\App.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul_MarkupCompile.cache
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul_MarkupCompile.lref
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\MainWindow.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\Login.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.g.resources
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.Properties.Resources.resources
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.GenerateResource.cache
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.CoreCompileInputs.cache
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.exe
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.pdb
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Google.Protobuf.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Hash.xxHash.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\MySql.Data.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Renci.SshNet.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\System.Buffers.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\System.Memory.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\System.Numerics.Vectors.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Ubiety.Dns.Core.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Zstandard.Net.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Google.Protobuf.pdb
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Google.Protobuf.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Hash.xxHash.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\MySql.Data.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Renci.SshNet.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\System.Buffers.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\System.Memory.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\System.Numerics.Vectors.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.CopyComplete
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\InformationPage.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\App.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\InformationPage.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentWindows\StudentMain.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\LeaderBoard.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyBadges.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyProgress.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucStudentMethods.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\UserGuide.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentWindows\StudentMain.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\LeaderBoard.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyBadges.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyProgress.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucStudentMethods.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\UserGuide.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucQuestion.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucQuestion.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.Charting.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.Charting.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\de\PdfSharp.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\itextsharp.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\itextsharp.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Xamarin.Essentials.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Xamarin.Essentials.pdb
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Xamarin.Essentials.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Licensing.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.PdfViewer.WPF.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.PdfViewer.WPF.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMethods.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherMain.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMethods.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherMain.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherLeaderBoard.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherLeaderBoard.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherBadges.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyStudents.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherQuestions.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherUserGuide.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherBadges.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyStudents.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherQuestions.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherUserGuide.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyClasses.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyClasses.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddBadge.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddBadge.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddQuestion.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddQuestion.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.Handles.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.Interfaces.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.LinqExtender.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.WPF.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\WECPOFLogic.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\bin\Debug\WPFViewModelExternalControls.dll
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\GeneralWindows\QuestionOptions.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\GeneralWindows\QuestionOptions.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherEditQuestion.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherEditQuestion.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionSelectOption.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionSelectOption.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionDetails.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionDetails.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherStudentAnswerFeedback.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherStudentAnswerFeedback.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.AssemblyReference.cache
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucBadges_Students.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucBadges_Students.baml
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacher_StudentProgress.g.cs
+D:\Proje Geliştirme ve Yönetimi\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacher_StudentProgress.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Dijital_Modul.exe.config
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Dijital_Modul.exe
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Dijital_Modul.pdb
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.Handles.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.Interfaces.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.LinqExtender.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.WPF.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Google.Protobuf.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\itextsharp.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\MySql.Data.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.Charting.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Renci.SshNet.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.PdfViewer.WPF.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Buffers.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Memory.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\WECPOFLogic.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\WPFViewModelExternalControls.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Xamarin.Essentials.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Zstandard.Net.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Google.Protobuf.pdb
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Google.Protobuf.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\itextsharp.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\MySql.Data.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.Charting.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Renci.SshNet.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.PdfViewer.WPF.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Buffers.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Memory.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Xamarin.Essentials.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.AssemblyReference.cache
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\MainWindow.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\GeneralWindows\QuestionOptions.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\InformationPage.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\Login.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucQuestion.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentWindows\StudentMain.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\LeaderBoard.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyBadges.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyProgress.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucStudentMethods.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\UserGuide.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucBadges_Students.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddBadge.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddQuestion.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherBadges.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherLeaderBoard.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMethods.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyClasses.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyStudents.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherQuestions.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherUserGuide.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacher_StudentProgress.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherEditQuestion.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherMain.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionDetails.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionSelectOption.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherStudentAnswerFeedback.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\App.g.cs
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul_MarkupCompile.cache
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul_MarkupCompile.lref
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\App.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\MainWindow.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\GeneralWindows\QuestionOptions.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\InformationPage.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\Login.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucQuestion.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentWindows\StudentMain.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\LeaderBoard.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyBadges.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyProgress.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucStudentMethods.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\UserGuide.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucBadges_Students.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddBadge.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddQuestion.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherBadges.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherLeaderBoard.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMethods.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyClasses.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyStudents.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherQuestions.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherUserGuide.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacher_StudentProgress.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherEditQuestion.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherMain.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionDetails.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionSelectOption.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherStudentAnswerFeedback.baml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.g.resources
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.Properties.Resources.resources
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.GenerateResource.cache
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.CoreCompileInputs.cache
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.CopyComplete
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.exe
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.pdb
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\RestSharp.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Text.Json.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.ValueTuple.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\RestSharp.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Text.Json.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.ValueTuple.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\FSharp.Core.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Okanshi.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Okanshi.WebApi.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Web.Http.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\FSharp.Core.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Okanshi.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\Okanshi.WebApi.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\System.Web.Http.xml
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\UmitCan\Downloads\Dijital_Modul\Dijital_Modul\Dijital_Modul\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Dijital_Modul.exe.config
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Dijital_Modul.exe
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Dijital_Modul.pdb
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.Handles.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.Interfaces.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.LinqExtender.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Eco.WPF.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\FSharp.Core.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Google.Protobuf.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\itextsharp.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\MySql.Data.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Okanshi.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Okanshi.WebApi.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Renci.SshNet.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\RestSharp.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.PdfViewer.WPF.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Buffers.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Memory.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Text.Json.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.ValueTuple.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Web.Http.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\WECPOFLogic.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\WPFViewModelExternalControls.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Xamarin.Essentials.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Zstandard.Net.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\FSharp.Core.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Google.Protobuf.pdb
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Google.Protobuf.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\itextsharp.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\MySql.Data.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Okanshi.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Okanshi.WebApi.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Renci.SshNet.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\RestSharp.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.PdfViewer.WPF.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Buffers.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Memory.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Text.Json.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.ValueTuple.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\System.Web.Http.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\Xamarin.Essentials.xml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.AssemblyReference.cache
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\MainWindow.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\GeneralWindows\QuestionOptions.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\InformationPage.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\Login.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucQuestion.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentWindows\StudentMain.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\LeaderBoard.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyBadges.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyProgress.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucStudentMethods.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\UserGuide.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucBadges_Students.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddBadge.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddQuestion.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherBadges.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherLeaderBoard.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMethods.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyClasses.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyStudents.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherQuestions.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherUserGuide.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacher_StudentProgress.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherEditQuestion.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherMain.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionDetails.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionSelectOption.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherStudentAnswerFeedback.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\App.g.cs
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul_MarkupCompile.cache
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul_MarkupCompile.lref
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\App.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\MainWindow.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\GeneralWindows\QuestionOptions.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\InformationPage.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\Login.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucQuestion.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentWindows\StudentMain.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\LeaderBoard.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyBadges.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyProgress.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucStudentMethods.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\UserGuide.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucBadges_Students.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddBadge.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddQuestion.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherBadges.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherLeaderBoard.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMethods.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyClasses.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyStudents.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherQuestions.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherUserGuide.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacher_StudentProgress.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherEditQuestion.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherMain.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionDetails.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionSelectOption.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherStudentAnswerFeedback.baml
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.g.resources
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.Properties.Resources.resources
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.CopyComplete
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.exe
+C:\Users\Semih\Desktop\Dijital_Modul\Dijital_Modul\obj\Debug\Dijital_Modul.pdb
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Dijital_Modul.exe.config
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Dijital_Modul.exe
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Dijital_Modul.pdb
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\BouncyCastle.Crypto.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Eco.Handles.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Eco.Interfaces.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Eco.LinqExtender.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Eco.WPF.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\FSharp.Core.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Google.Protobuf.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\itextsharp.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Hash.xxHash.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\MySql.Data.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Newtonsoft.Json.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Okanshi.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Okanshi.WebApi.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\PdfSharp.Charting.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\PdfSharp.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Renci.SshNet.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\RestSharp.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Compression.Base.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Licensing.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.PdfViewer.WPF.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Buffers.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Memory.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Net.Http.Formatting.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Numerics.Vectors.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Text.Encodings.Web.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Text.Json.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.ValueTuple.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Web.Http.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Ubiety.Dns.Core.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\WECPOFLogic.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\WPFViewModelExternalControls.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xamarin.Essentials.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Zstandard.Net.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\FSharp.Core.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Google.Protobuf.pdb
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Google.Protobuf.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\itextsharp.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Hash.xxHash.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\MySql.Data.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Newtonsoft.Json.pdb
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Newtonsoft.Json.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Okanshi.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Okanshi.WebApi.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\PdfSharp.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\PdfSharp.Charting.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Renci.SshNet.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\RestSharp.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Compression.Base.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.PdfViewer.WPF.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Buffers.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Memory.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Net.Http.Formatting.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Numerics.Vectors.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Text.Encodings.Web.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Text.Json.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.ValueTuple.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Web.Http.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xamarin.Essentials.pdb
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xamarin.Essentials.xml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\cs\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\de\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\en\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\es\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\fr\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\it\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ja\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ko\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\pl\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ru\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\tr\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\de\PdfSharp.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.AssemblyReference.cache
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\MainWindow.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\GeneralWindows\QuestionOptions.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\InformationPage.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\Login.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucQuestion.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentWindows\StudentMain.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\LeaderBoard.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyBadges.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyProgress.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucStudentMethods.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\UserGuide.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucBadges_Students.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddBadge.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddQuestion.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherBadges.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherLeaderBoard.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMethods.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyClasses.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyStudents.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherQuestions.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherUserGuide.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacher_StudentProgress.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherEditQuestion.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherMain.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionDetails.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionSelectOption.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherStudentAnswerFeedback.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\App.g.cs
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul_MarkupCompile.cache
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul_MarkupCompile.lref
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\App.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\MainWindow.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\GeneralWindows\QuestionOptions.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\InformationPage.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\Login.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucQuestion.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentWindows\StudentMain.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\LeaderBoard.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyBadges.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyProgress.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucStudentMethods.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\UserGuide.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucBadges_Students.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddBadge.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddQuestion.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherBadges.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherLeaderBoard.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMethods.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyClasses.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyStudents.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherQuestions.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherUserGuide.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacher_StudentProgress.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherEditQuestion.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherMain.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionDetails.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionSelectOption.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherStudentAnswerFeedback.baml
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.g.resources
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.Properties.Resources.resources
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.GenerateResource.cache
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.CoreCompileInputs.cache
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.CopyComplete
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.exe
+D:\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.pdb
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Dijital_Modul.exe.config
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Dijital_Modul.exe
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Dijital_Modul.pdb
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Eco.Handles.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Eco.Interfaces.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Eco.LinqExtender.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Eco.WPF.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\FSharp.Core.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Google.Protobuf.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\itextsharp.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\MySql.Data.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Okanshi.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Okanshi.WebApi.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\PdfSharp.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Renci.SshNet.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\RestSharp.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.PdfViewer.WPF.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Buffers.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Memory.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Text.Json.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.ValueTuple.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Web.Http.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\WECPOFLogic.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\WPFViewModelExternalControls.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xamarin.Essentials.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Zstandard.Net.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\FSharp.Core.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Google.Protobuf.pdb
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Google.Protobuf.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\itextsharp.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\MySql.Data.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Okanshi.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Okanshi.WebApi.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\PdfSharp.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Renci.SshNet.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\RestSharp.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.PdfViewer.WPF.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Buffers.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Memory.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Text.Json.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.ValueTuple.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\System.Web.Http.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\Xamarin.Essentials.xml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\MainWindow.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\GeneralWindows\QuestionOptions.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\InformationPage.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\Login.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucQuestion.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentWindows\StudentMain.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\LeaderBoard.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyBadges.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyProgress.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucStudentMethods.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\UserGuide.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucBadges_Students.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddBadge.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddQuestion.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherBadges.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherLeaderBoard.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMethods.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyClasses.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyStudents.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherQuestions.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherUserGuide.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacher_StudentProgress.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherEditQuestion.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherMain.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionDetails.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionSelectOption.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherStudentAnswerFeedback.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\App.g.cs
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul_MarkupCompile.cache
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul_MarkupCompile.lref
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\App.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\MainWindow.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\GeneralWindows\QuestionOptions.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\InformationPage.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\Login.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucQuestion.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentWindows\StudentMain.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\LeaderBoard.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyBadges.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\MyProgress.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\ucStudentMethods.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\StudentUserControllers\UserGuide.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucBadges_Students.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddBadge.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherAddQuestion.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherBadges.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherLeaderBoard.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMethods.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyClasses.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherMyStudents.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherQuestions.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacherUserGuide.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherUserControllers\ucTeacher_StudentProgress.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherEditQuestion.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherMain.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionDetails.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherQuestionSelectOption.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Pages\TeacherWindows\TeacherStudentAnswerFeedback.baml
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.g.resources
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.Properties.Resources.resources
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.csproj.CopyComplete
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.exe
+C:\Users\Semih\Desktop\DijitalModul_Git\DijitalModul\Dijital_Modul\obj\Debug\Dijital_Modul.pdb

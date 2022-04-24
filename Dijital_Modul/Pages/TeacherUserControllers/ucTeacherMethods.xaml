@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="Dijital_Modul.Pages.TeacherUserControllers.ucTeacherMethods"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Dijital_Modul.Pages.TeacherUserControllers" xmlns:PdfViewer="clr-namespace:Syncfusion.Windows.PdfViewer;assembly=Syncfusion.PdfViewer.WPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="900" d:DesignWidth="900" TabIndex="0">
+
+    <Grid>
+
+
+
+        <StackPanel>
+            <Label Content="ÖĞRETMEN METOTLAR"  FontFamily="Times New Roman" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+
+            <PdfViewer:PdfViewerControl Height="800" x:Name="pdfViewer" Focusable="False" Cursor="Arrow"/>
+
+            <!--
+            <DocumentViewer MaxHeight="600" x:Name="dcmtviewer"/> 
+            -->
+
+            <!--
+            <WebBrowser Height="600" Name="webMethods"/>
+            -->
+
+            <!-- <TextBlock x:Name="deneme"/> -->
+
+        </StackPanel>
+    </Grid>
+</UserControl>
+

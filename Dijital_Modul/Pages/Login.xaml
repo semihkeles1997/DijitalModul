@@ -1,0 +1,77 @@
+﻿<Window x:Class="Dijital_Modul.Pages.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dijital_Modul.Pages"
+        mc:Ignorable="d"
+        Title="Login" Height="1080" Width="1920" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Maximized" Cursor="No" AllowsTransparency="True" WindowStyle="None">
+
+
+
+
+    <Grid MaxWidth="1922" MaxHeight="1080" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" Background="#FF4C747F">
+
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="250"/>
+            <RowDefinition/>
+            <RowDefinition Height="180"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
+            <DockPanel x:Name="logo" MouseDown="logo_MouseDown" Cursor="Hand"  >
+                <Image Source="Images/logo3.png" Stretch="Fill" Width="150" Height="150" Margin="350,100,0,0"/>
+                <Label Content="DİJİTAL MODÜL" FontSize="100" Height="150" Foreground="White"  Margin="-500,100,0,0" HorizontalAlignment="Center" FontFamily="Times New Roman"/>
+            </DockPanel>
+            <Line Stroke="Cyan" StrokeThickness="5" X1="350" X2="1370"/>
+        </StackPanel>
+
+        <DockPanel Grid.Row="1" Grid.Column="0">
+            <!--
+            <Image HorizontalAlignment="Left" Source="Images/login.PNG" Height="300" Margin="100,100,0,0" VerticalAlignment="Top" Width="300"/>
+-->
+        </DockPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <!--Username and Password-->
+
+            <StackPanel x:Name="stckLogin" Width="750" Margin="-450,100,0,0">
+
+                <Image Source="Images/login.PNG" Width="50" Height="50" Margin="150,100,0,0" HorizontalAlignment="Left">
+                    <Image.OpacityMask>
+                        <ImageBrush ImageSource="Images/login.png"/>
+                    </Image.OpacityMask>
+                </Image>
+                <TextBox x:Name="txtUsername" HorizontalAlignment="Left" BorderThickness="2" BorderBrush="Cyan" Height="50" FontSize="35" Margin="200,-50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="350" Background="{x:Null}" FontFamily="Times New Roman" MaxLines="1" Cursor="No" MaxLength="8" TabIndex="0"/>
+
+                <Image Source="Images/password.png" Width="50" Height="50" Margin="150,35,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Stretch="Fill"/>
+                <PasswordBox HorizontalAlignment="Left" x:Name="txtPassword" BorderThickness="2" BorderBrush="Cyan" Height="50" FontSize="35" Margin="200,-50,0,0"  VerticalAlignment="Top" Width="350" Background="{x:Null}" FontFamily="Times New Roman" KeyDown="txtPassword_KeyDown" Cursor="No" MaxLength="8" PasswordChar="*" TabIndex="1"/>
+
+
+            </StackPanel>
+
+
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="0" Height="180" Background="Black">
+            <Image Margin="100,15" Width="200" Height="150" Source="Images/trmnl.png" VerticalAlignment="Top" HorizontalAlignment="Left" Stretch="Fill"/>
+            <Label Content="Terminal" Foreground="Green"/>
+        </StackPanel>
+
+        <StackPanel Background="Black" Grid.Column="1" Grid.Row="2">
+            <TextBox Padding="5,15" x:Name="txtTerminal" Height="180" Background="{x:Null}" TabIndex="2" FontSize="35" Foreground="Green" CaretBrush="Green" Cursor="No" FontStretch="Expanded" TextWrapping="Wrap" KeyDown="txtTerminal_KeyDown" AcceptsReturn="True" MaxLines="2" IsUndoEnabled="True" MaxLength="20" FontFamily="Times New Roman" />
+
+        </StackPanel>
+
+
+
+    </Grid>
+</Window>

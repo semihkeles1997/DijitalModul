@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>Okanshi</name></assembly>
+<members>
+<member name="F:Okanshi.Logger.Fatal@">
+<summary>
+ Logs a fatal error
+</summary>
+</member>
+<member name="F:Okanshi.Logger.Error@">
+<summary>
+ Logs an error
+</summary>
+</member>
+<member name="F:Okanshi.Logger.Warn@">
+<summary>
+ Logs a warning
+</summary>
+</member>
+<member name="F:Okanshi.Logger.Info@">
+<summary>
+ Logs an information message
+</summary>
+</member>
+<member name="F:Okanshi.Logger.Debug@">
+<summary>
+ Logs a debug message
+</summary>
+</member>
+<member name="F:Okanshi.Logger.Trace@">
+<summary>
+ Logs a trace message
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Warn(System.Action{System.String})">
+<summary>
+ Logs a warning
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Trace(System.Action{System.String})">
+<summary>
+ Logs a trace message
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Info(System.Action{System.String})">
+<summary>
+ Logs an information message
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Fatal(System.Action{System.String,System.Exception})">
+<summary>
+ Logs a fatal error
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Error(System.Action{System.String,System.Exception})">
+<summary>
+ Logs an error
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Debug(System.Action{System.String})">
+<summary>
+ Logs a debug message
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Warn">
+<summary>
+ Logs a warning
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Trace">
+<summary>
+ Logs a trace message
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Info">
+<summary>
+ Logs an information message
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Fatal">
+<summary>
+ Logs a fatal error
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Error">
+<summary>
+ Logs an error
+</summary>
+</member>
+<member name="P:Okanshi.Logger.Debug">
+<summary>
+ Logs a debug message
+</summary>
+</member>
+<member name="T:Okanshi.Logger">
+<summary>
+ Logging class
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDecimal.Set(System.Decimal)">
+<summary>
+ Set the value
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDecimal.Increment">
+<summary>
+ Increment the value by one
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDecimal.Increment(System.Decimal)">
+<summary>
+ Increment the value by the specified amount
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDecimal.GetAndSet(System.Decimal)">
+<summary>
+ Sets the value and returns the old value
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDecimal.Get">
+<summary>
+ Get the value
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDecimal.CompareAndSet(System.Decimal,System.Decimal)">
+<summary>
+ Compare and set the value. If the value returned isn&apos;t equal the specified original value, it means
+ that the value has changed since the last fetch and the new value hasn&apos;t been used
+</summary>
+</member>
+<member name="T:Okanshi.AtomicDecimal">
+<summary>
+ Performs atomic operations on a decimal
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDouble.Set(System.Double)">
+<summary>
+ Set the value
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDouble.Increment">
+<summary>
+ Increment the value by one
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDouble.Increment(System.Double)">
+<summary>
+ Increment the value by the specified amount
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDouble.GetAndSet(System.Double)">
+<summary>
+ Sets the value and returns the old value
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDouble.Get">
+<summary>
+ Get the value
+</summary>
+</member>
+<member name="M:Okanshi.AtomicDouble.CompareAndSet(System.Double,System.Double)">
+<summary>
+ Compare and set the value. If the value returned isn&apos;t equal the specified original value, it means
+ that the value has changed since the last fetch and the new value hasn&apos;t been used
+</summary>
+</member>
+<member name="T:Okanshi.AtomicDouble">
+<summary>
+ Performs atomic operations on a double
+</summary>
+</member>
+<member name="M:Okanshi.AtomicLong.Set(System.Int64)">
+<summary>
+ Set the value
+</summary>
+</member>
+<member name="M:Okanshi.AtomicLong.Increment(System.Int64)">
+<summary>
+ Increment the value by the specified amount
+</summary>
+</member>
+<member name="M:Okanshi.AtomicLong.Increment">
+<summary>
+ Increment the value by one
+</summary>
+</member>
+<member name="M:Okanshi.AtomicLong.GetAndSet(System.Int64)">
+<summary>
+ Sets the value and returns the old value
+</summary>
+</member>
+<member name="M:Okanshi.AtomicLong.Get">
+<summary>
+ Get the value
+</summary>
+</member>
+<member name="M:Okanshi.AtomicLong.CompareAndSet(System.Int64,System.Int64)">
+<summary>
+ Compare and set the value. If the value returned isn&apos;t equal the specified original value, it means
+ that the value has changed since the last fetch and the new value hasn&apos;t been used
+</summary>
+</member>
+<member name="T:Okanshi.AtomicLong">
+<summary>
+ Performs atomic operations on a long
+</summary>
+</member>
+<member name="M:Okanshi.IAtomic`1.Set(`0)">
+<summary>
+ Set the value
+</summary>
+</member>
+<member name="M:Okanshi.IAtomic`1.Increment(`0)">
+<summary>
+ Increment the value by the specified amount
+</summary>
+</member>
+<member name="M:Okanshi.IAtomic`1.Increment">
+<summary>
+ Increment the value by one
+</summary>
+</member>
+<member name="M:Okanshi.IAtomic`1.GetAndSet(`0)">
+<summary>
+ Sets the value and returns the old value
+</summary>
+</member>
+<member name="M:Okanshi.IAtomic`1.Get">
+<summary>
+ Get the value
+</summary>
+</member>
+<member name="M:Okanshi.IAtomic`1.CompareAndSet(`0,`0)">
+<summary>
+ Compare and set the value. If the value returned isn&apos;t equal the specified original value, it means
+ that the value has changed since the last fetch and the new value hasn&apos;t been used
+</summary>
+</member>
+<member name="T:Okanshi.IAtomic`1">
+<summary>
+ Perform atomic operations on a type
+</summary>
+</member>
+<member name="P:Okanshi.IMonitor.Config">
+<summary>
+ Gets the configuration of the monitor
+</summary>
+</member>
+<member name="M:Okanshi.IMonitor.GetValuesAndReset">
+<summary>
+ Gets the values and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.IMonitor.GetValues">
+<summary>
+ Gets the values of the monitor
+</summary>
+</member>
+<member name="T:Okanshi.IMonitor">
+<summary>
+ A monitor
+</summary>
+</member>
+<member name="P:Okanshi.Measurement`1.Value">
+<summary>
+ The value
+</summary>
+</member>
+<member name="P:Okanshi.Measurement`1.Name">
+<summary>
+ The name
+</summary>
+</member>
+<member name="T:Okanshi.Measurement`1">
+<summary>
+ A measurement from a monitor
+</summary>
+</member>
+<member name="P:Okanshi.MonitorConfig.Tags">
+<summary>
+ Monitor tags
+</summary>
+</member>
+<member name="P:Okanshi.MonitorConfig.Name">
+<summary>
+ Name of the monitor
+</summary>
+</member>
+<member name="M:Okanshi.MonitorConfig.WithTags(System.Collections.Generic.IEnumerable{Okanshi.Tag})">
+<summary>
+ Adds multiple tags to the configuration
+</summary>
+</member>
+<member name="M:Okanshi.MonitorConfig.WithTag(Okanshi.Tag)">
+<summary>
+ Adds a tag
+</summary>
+</member>
+<member name="M:Okanshi.MonitorConfig.WithTag(System.String,System.String)">
+<summary>
+ Adds a tag specified by the key and value
+</summary>
+</member>
+<member name="M:Okanshi.MonitorConfig.Build(System.String)">
+<summary>
+ Builder method of the configuration
+</summary>
+</member>
+<member name="T:Okanshi.MonitorConfig">
+<summary>
+ Configuration of a monitor
+</summary>
+</member>
+<member name="T:Okanshi.Tag">
+<summary>
+ A tag used to attach information to a monitor
+</summary>
+</member>
+<member name="T:Okanshi.DefaultMonitorRegistry">
+<summary>
+ The default monitor registry handled as a singleton. Currently this is a OkanshiMonitorRegistry.
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitorRegistry.Unregister(Okanshi.IMonitor)">
+<summary>
+ Unregister a monitor
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitorRegistry.IsRegistered(Okanshi.IMonitor)">
+<summary>
+ Check if a monitor is registered
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitorRegistry.GetRegisteredMonitors">
+<summary>
+ Gets the registered monitors
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitorRegistry.GetOrAdd``1(Okanshi.MonitorConfig,System.Func{Okanshi.MonitorConfig,``0})">
+<summary>
+ Get or add a new registration
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitorRegistry.Clear">
+<summary>
+ Clear the registry
+</summary>
+</member>
+<member name="T:Okanshi.OkanshiMonitorRegistry">
+<summary>
+ Monitor registry used by the OkanshiMonitor. This registry allows registration of monitors
+ with the same name, but different types
+</summary>
+</member>
+<member name="M:Okanshi.IMonitorRegistry.Unregister(Okanshi.IMonitor)">
+<summary>
+ Unregister a monitor
+</summary>
+</member>
+<member name="M:Okanshi.IMonitorRegistry.IsRegistered(Okanshi.IMonitor)">
+<summary>
+ Check if a monitor is registered
+</summary>
+</member>
+<member name="M:Okanshi.IMonitorRegistry.GetRegisteredMonitors">
+<summary>
+ Gets the registered monitors
+</summary>
+</member>
+<member name="M:Okanshi.IMonitorRegistry.GetOrAdd``1(Okanshi.MonitorConfig,System.Func{Okanshi.MonitorConfig,``0})">
+<summary>
+ Get or add a new registration
+</summary>
+</member>
+<member name="M:Okanshi.IMonitorRegistry.Clear">
+<summary>
+ Clear the registry
+</summary>
+</member>
+<member name="T:Okanshi.IMonitorRegistry">
+<summary>
+ Registry to keep track for monitors
+</summary>
+</member>
+<member name="P:Okanshi.MinMaxAvgGauge.Config">
+<summary>
+ Gets the monitor configuration
+</summary>
+</member>
+<member name="M:Okanshi.MinMaxAvgGauge.Set(System.Double)">
+<summary>
+ Sets the value
+</summary>
+</member>
+<member name="M:Okanshi.MinMaxAvgGauge.Reset">
+<summary>
+ Reset the gauge
+</summary>
+</member>
+<member name="M:Okanshi.MinMaxAvgGauge.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.MinMaxAvgGauge.GetValues">
+<summary>
+ Gets the average calls time within the specified step
+</summary>
+</member>
+<member name="T:Okanshi.MinMaxAvgGauge">
+<summary>
+ The MinMaxAvgGauge is an extended AverageGauage in that it keeps track of the min, max and average values since last reset. 
+ This gauge is able to detect extreme values that would otherwise disappear in an average calculation.
+ The implementation is simply wrapping the existing MinGauge, MaxGauge and AverageGauge.
+ Values returned are &quot;min&quot;, &quot;max&quot; and &quot;avg&quot;
+</summary>
+</member>
+<member name="P:Okanshi.AverageGauge.Config">
+<summary>
+ Gets the monitor configuration
+</summary>
+</member>
+<member name="M:Okanshi.AverageGauge.Set(System.Double)">
+<summary>
+ Sets the value
+</summary>
+</member>
+<member name="M:Okanshi.AverageGauge.Reset">
+<summary>
+ Reset the gauge
+</summary>
+</member>
+<member name="M:Okanshi.AverageGauge.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.AverageGauge.GetValues">
+<summary>
+ Gets the current value
+</summary>
+</member>
+<member name="T:Okanshi.AverageGauge">
+<summary>
+ Gauge that keeps track of the average value since last reset. Initial value is 0.
+</summary>
+</member>
+<member name="P:Okanshi.DecimalGauge.Config">
+<summary>
+ Gets the monitor configuration
+</summary>
+</member>
+<member name="M:Okanshi.DecimalGauge.Set(System.Decimal)">
+<summary>
+ Sets the value
+</summary>
+</member>
+<member name="M:Okanshi.DecimalGauge.Reset">
+<summary>
+ Reset the gauge
+</summary>
+</member>
+<member name="M:Okanshi.DecimalGauge.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.DecimalGauge.GetValues">
+<summary>
+ Gets the current value
+</summary>
+</member>
+<member name="T:Okanshi.DecimalGauge">
+<summary>
+ A gauge that reports a decimal value
+</summary>
+</member>
+<member name="P:Okanshi.DoubleGauge.Config">
+<summary>
+ Gets the monitor configuration
+</summary>
+</member>
+<member name="M:Okanshi.DoubleGauge.Set(System.Double)">
+<summary>
+ Sets the value
+</summary>
+</member>
+<member name="M:Okanshi.DoubleGauge.Reset">
+<summary>
+ Reset the gauge
+</summary>
+</member>
+<member name="M:Okanshi.DoubleGauge.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.DoubleGauge.GetValues">
+<summary>
+ Gets the current value
+</summary>
+</member>
+<member name="T:Okanshi.DoubleGauge">
+<summary>
+ A gauge that reports a double value
+</summary>
+</member>
+<member name="P:Okanshi.LongGauge.Config">
+<summary>
+ Gets the monitor configuration
+</summary>
+</member>
+<member name="M:Okanshi.LongGauge.Set(System.Int64)">
+<summary>
+ Sets the value
+</summary>
+</member>
+<member name="M:Okanshi.LongGauge.Reset">
+<summary>
+ Reset the gauge
+</summary>
+</member>
+<member name="M:Okanshi.LongGauge.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.LongGauge.GetValues">
+<summary>
+ Gets the current value
+</summary>
+</member>
+<member name="T:Okanshi.LongGauge">
+<summary>
+ A gauge the reports a long value
+</summary>
+</member>
+<member name="P:Okanshi.MinGauge.Config">
+<summary>
+ Gets the monitor configuration
+</summary>
+</member>
+<member name="M:Okanshi.MinGauge.Set(System.Int64)">
+<summary>
+ Sets the value
+</summary>
+</member>
+<member name="M:Okanshi.MinGauge.Reset">
+<summary>
+ Reset the gauge
+</summary>
+</member>
+<member name="M:Okanshi.MinGauge.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.MinGauge.GetValues">
+<summary>
+ Gets the current value
+</summary>
+</member>
+<member name="T:Okanshi.MinGauge">
+<summary>
+ Gauge that keeps track of the minimum value seen since the last reset. Updates should be
+ non-negative, the initial value is 0.
+</summary>
+</member>
+<member name="P:Okanshi.MaxGauge.Config">
+<summary>
+ Gets the monitor configuration
+</summary>
+</member>
+<member name="M:Okanshi.MaxGauge.Set(System.Int64)">
+<summary>
+ Sets the value
+</summary>
+</member>
+<member name="M:Okanshi.MaxGauge.Reset">
+<summary>
+ Reset the gauge
+</summary>
+</member>
+<member name="M:Okanshi.MaxGauge.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.MaxGauge.GetValues">
+<summary>
+ Gets the current value
+</summary>
+</member>
+<member name="T:Okanshi.MaxGauge">
+<summary>
+ Gauge that keeps track of the maximum value seen since the last reset. Updates should be
+ non-negative, the initial value is 0.
+</summary>
+</member>
+<member name="P:Okanshi.Gauge`1.Config">
+<summary>
+ Gets the monitor configuration
+</summary>
+</member>
+<member name="M:Okanshi.Gauge`1.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.Gauge`1.GetValues">
+<summary>
+ Gets the current value
+</summary>
+</member>
+<member name="T:Okanshi.Gauge`1">
+<summary>
+ A gauge implemenation that invokes a func to get the current value
+</summary>
+</member>
+<member name="M:Okanshi.IGauge`1.Set(`0)">
+<summary>
+ Sets the value
+</summary>
+</member>
+<member name="M:Okanshi.IGauge`1.Reset">
+<summary>
+ Resets the gauge
+</summary>
+</member>
+<member name="T:Okanshi.IGauge`1">
+<summary>
+ Monitor type that provides the current value, fx. the percentage of disk space used
+</summary>
+</member>
+<member name="P:Okanshi.CumulativeCounter.Config">
+<summary>
+ Gets the configuration
+</summary>
+</member>
+<member name="M:Okanshi.CumulativeCounter.Increment(System.Int64)">
+<summary>
+ Increment the value by the specified amount
+</summary>
+</member>
+<member name="M:Okanshi.CumulativeCounter.Increment">
+<summary>
+ Increment the value by one
+</summary>
+</member>
+<member name="M:Okanshi.CumulativeCounter.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.CumulativeCounter.GetValues">
+<summary>
+ Gets the value
+</summary>
+</member>
+<member name="T:Okanshi.CumulativeCounter">
+<summary>
+ A counter not reset between polls.
+</summary>
+</member>
+<member name="P:Okanshi.DoubleCounter.Config">
+<summary>
+ Gets the configuration
+</summary>
+</member>
+<member name="M:Okanshi.DoubleCounter.Increment">
+<summary>
+ Increment the value by one
+</summary>
+</member>
+<member name="M:Okanshi.DoubleCounter.Increment(System.Double)">
+<summary>
+ Increment the value by the specified amount
+</summary>
+</member>
+<member name="M:Okanshi.DoubleCounter.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.DoubleCounter.GetValues">
+<summary>
+ Gets the maximum count
+</summary>
+</member>
+<member name="T:Okanshi.DoubleCounter">
+<summary>
+ A simple double counter.
+</summary>
+</member>
+<member name="P:Okanshi.Counter.Config">
+<summary>
+ Gets the configuration
+</summary>
+</member>
+<member name="M:Okanshi.Counter.Increment(System.Int64)">
+<summary>
+ Increment the value by the specified amount
+</summary>
+</member>
+<member name="M:Okanshi.Counter.Increment">
+<summary>
+ Increment the value by one
+</summary>
+</member>
+<member name="M:Okanshi.Counter.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.Counter.GetValues">
+<summary>
+ Gets the maximum count
+</summary>
+</member>
+<member name="T:Okanshi.Counter">
+<summary>
+ Tracking the count between polls
+</summary>
+</member>
+<member name="M:Okanshi.ICounter`1.Increment(`0)">
+<summary>
+ Increment the counter by the specified amount
+</summary>
+</member>
+<member name="M:Okanshi.ICounter`1.Increment">
+<summary>
+ Increment the counter by one
+</summary>
+</member>
+<member name="T:Okanshi.ICounter`1">
+<summary>
+ Tracks how often some event occurs
+</summary>
+</member>
+<member name="M:Okanshi.HealthChecks.RunAll">
+<summary>
+ Run all healthchecks defined
+</summary>
+</member>
+<member name="M:Okanshi.HealthChecks.Exists(System.String)">
+<summary>
+ Check if a health check already exists
+</summary>
+</member>
+<member name="M:Okanshi.HealthChecks.Clear">
+<summary>
+ Clear all healthchecks
+</summary>
+</member>
+<member name="M:Okanshi.HealthChecks.Add(System.String,System.Func{System.Boolean})">
+<summary>
+ Add a health check
+</summary>
+</member>
+<member name="T:Okanshi.HealthChecks">
+<summary>
+ Handles healthchecks
+</summary>
+</member>
+<member name="P:Okanshi.SlaTimer.Config">
+<summary>
+ Gets the monitor config
+</summary>
+</member>
+<member name="M:Okanshi.SlaTimer.Start">
+<summary>
+ Start a manually controlled timinig
+</summary>
+</member>
+<member name="M:Okanshi.SlaTimer.RegisterElapsed(System.Diagnostics.Stopwatch)">
+<summary>
+ Manually register a timing, should used when you can&apos;t call Record since you at the call time do not know the timer to use.
+ You should stop the stopwatch before passing so you do not incur the overhead of Okanshi. But it is not a requirement. 
+ The stopwatch is not stopped by Okanshi.
+</summary>
+</member>
+<member name="M:Okanshi.SlaTimer.Register(System.TimeSpan)">
+<summary>
+ Manually register a timing, should used when you can&apos;t call Record since you at the call time do not know the timer to use
+</summary>
+</member>
+<member name="M:Okanshi.SlaTimer.Record(System.Action)">
+<summary>
+ Time a System.Action call
+</summary>
+</member>
+<member name="M:Okanshi.SlaTimer.Record``1(System.Func{``0})">
+<summary>
+ Time a System.Func call and return the value
+</summary>
+</member>
+<member name="M:Okanshi.SlaTimer.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.SlaTimer.GetValues">
+<summary>
+ Gets the SLA statistics
+</summary>
+</member>
+<member name="T:Okanshi.SlaTimer">
+<summary>
+ A SLA-Timer (Servie Level Agreement timer) keeps track of your SLA&apos;s and whether they are honored. 
+
+ The SLA-Timer is different than a timer in that it measures strictly against the SLA, whereas the Timer operate on averages.
+ If your performance characteristics are such that you are always doing very good or very bad, a normal timer can be used instead 
+ of the SLA-timer, since the average will suffice.
+
+ The timer implements two timers one for registrations below the SLA and one above.
+ Each timer provides the following data &quot;average&quot;, &quot;total time&quot;, &quot;count&quot;, &quot;min&quot; and &quot;max&quot; 
+
+ We keep track of both executions below the SLA and above. The reason is, when things are going bad we 
+ want to know how bad we are doing. 
+ By tracking timings below our SLA we can see if we get dangerously close to our SLA, it also 
+ enable us to better understand the periods where we break our SLA by knowing how &quot;business as usual&quot; looks like.
+</summary>
+</member>
+<member name="P:Okanshi.Timer.Config">
+<summary>
+ Gets the monitor config
+</summary>
+</member>
+<member name="M:Okanshi.Timer.Start">
+<summary>
+ Start a manually controlled timinig
+</summary>
+</member>
+<member name="M:Okanshi.Timer.RegisterElapsed(System.Diagnostics.Stopwatch)">
+<summary>
+ Manually register a timing, should used when you can&apos;t call Record since you at the call time do not know the timer to use.
+
+ You should stop the stopwatch before passing so you do not incur the overhead of Okanshi. But it is not a requirement. 
+ The stopwatch is not stopped by Okanshi.
+</summary>
+</member>
+<member name="M:Okanshi.Timer.Register(System.TimeSpan)">
+<summary>
+ Manually register a timing, should used when you can&apos;t call Record since you at the call time do not know the timer to use
+</summary>
+</member>
+<member name="M:Okanshi.Timer.Record(System.Action)">
+<summary>
+ Time a System.Action call
+</summary>
+</member>
+<member name="M:Okanshi.Timer.Record``1(System.Func{``0})">
+<summary>
+ Time a System.Func call and return the value
+</summary>
+</member>
+<member name="M:Okanshi.Timer.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.Timer.GetValues">
+<summary>
+ Gets the values of the timer which are: &quot;total time&quot;, &quot;count&quot;, &quot;min&quot; and &quot;max&quot; 
+</summary>
+</member>
+<member name="M:Okanshi.Timer.GetTotalTime">
+<summary>
+ Gets the the total time for all calls within the specified step
+</summary>
+</member>
+<member name="M:Okanshi.Timer.GetMin">
+<summary>
+ Get the manimum value of all calls
+</summary>
+</member>
+<member name="M:Okanshi.Timer.GetMax">
+<summary>
+ Get the maximum value of all calls
+</summary>
+</member>
+<member name="M:Okanshi.Timer.GetCount">
+<summary>
+ Gets the rate of calls timed within the specified step
+</summary>
+</member>
+<member name="T:Okanshi.Timer">
+<summary>
+ A timer providing the &quot;average&quot;,&quot;total time&quot;, &quot;count&quot;, &quot;min&quot; and &quot;max&quot; for the recordings
+</summary>
+</member>
+<member name="M:Okanshi.ITimer.Start">
+<summary>
+ Start a manually controlled timinig
+</summary>
+</member>
+<member name="M:Okanshi.ITimer.RegisterElapsed(System.Diagnostics.Stopwatch)">
+<summary>
+ Manually register a timing, should used when you can&apos;t call Record since you at the call time do not know the timer to use.
+
+ You should stop the stopwatch before passing so you do not incur the overhead of Okanshi. But it is not a requirement. 
+ The stopwatch is not stopped by Okanshi.
+</summary>
+</member>
+<member name="M:Okanshi.ITimer.Register(System.TimeSpan)">
+<summary>
+ Manually register a timing, should used when you can&apos;t call Record since you at the call time do not know the timer to use
+</summary>
+</member>
+<member name="M:Okanshi.ITimer.Record(System.Action)">
+<summary>
+ Time a System.Action call
+</summary>
+</member>
+<member name="M:Okanshi.ITimer.Record``1(System.Func{``0})">
+<summary>
+ Time a System.Func call and return the value
+</summary>
+</member>
+<member name="T:Okanshi.ITimer">
+<summary>
+ Times System.Action and Systen.Func calls
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiTimer.Stop">
+<summary>
+ Stop the timer
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiTimer.Start">
+<summary>
+ Start the timer
+</summary>
+</member>
+<member name="T:Okanshi.OkanshiTimer">
+<summary>
+ Timer that is started and stopped manually
+</summary>
+</member>
+<member name="T:Okanshi.TimerAbsentFilter">
+<summary>
+ A filter decorator for timers.
+ The wrapped monitor only returns values to the poller in case a change has been registered
+ With this you avoid sending 0-value measurements that normally is sent when no measurements are registered
+</summary>
+</member>
+<member name="T:Okanshi.CounterAbsentFilter`1">
+<summary>
+ A filter decorator for counters.
+ The wrapped monitor only returns values to the poller in case a change has been registered
+ With this you avoid sending 0-value measurements that normally is sent when no measurements are registered
+</summary>
+</member>
+<member name="T:Okanshi.GaugeAbsentFilter`1">
+<summary>
+ A filter decorator for gauges.
+ The wrapped monitor only returns values to the poller in case a change has been registered
+ With this you avoid sending 0-value measurements that normally is sent when no measurements are registered
+</summary>
+</member>
+<member name="T:Okanshi.MonitorAbsentFilter">
+<summary>
+ A filter decorator for imonitors.
+ The wrapped monitor only returns values to the poller in case a change has been registered
+ With this you avoid sending 0-value measurements that normally is sent when no measurements are registered
+</summary>
+</member>
+<member name="P:Okanshi.PerformanceCounterMonitor.Config">
+<summary>
+ Gets the monitor config
+</summary>
+</member>
+<member name="M:Okanshi.PerformanceCounterMonitor.GetValuesAndReset">
+<summary>
+ Gets the value and resets the monitor
+</summary>
+</member>
+<member name="M:Okanshi.PerformanceCounterMonitor.GetValues">
+<summary>
+ Gets the performance counter value
+</summary>
+</member>
+<member name="T:Okanshi.PerformanceCounterMonitor">
+<summary>
+ Used to monitor Windows performance counters. Be aware that some performance counters, requires multiple readings before
+ returning any value.
+</summary>
+</member>
+<member name="P:Okanshi.PerformanceCounterConfig.Instance">
+<summary>
+ The category
+</summary>
+</member>
+<member name="P:Okanshi.PerformanceCounterConfig.Counter">
+<summary>
+ The category
+</summary>
+</member>
+<member name="P:Okanshi.PerformanceCounterConfig.Category">
+<summary>
+ The category
+</summary>
+</member>
+<member name="M:Okanshi.PerformanceCounterConfig.Build(System.String,System.String,System.String)">
+<summary>
+ Create performance counter config with an instance
+</summary>
+</member>
+<member name="M:Okanshi.PerformanceCounterConfig.Build(System.String,System.String)">
+<summary>
+ Create performance counter config without an instance
+</summary>
+</member>
+<member name="T:Okanshi.PerformanceCounterConfig">
+<summary>
+ Performance counter configuration
+</summary>
+</member>
+<member name="M:Okanshi.MetricMonitorRegistryPoller.UnregisterObserver(System.Func{System.Collections.Generic.IEnumerable{Okanshi.Metric},System.Threading.Tasks.Task})">
+<summary>
+ Unregister an observer
+</summary>
+</member>
+<member name="M:Okanshi.MetricMonitorRegistryPoller.Stop">
+<summary>
+ Stop polling for new metrics
+</summary>
+</member>
+<member name="M:Okanshi.MetricMonitorRegistryPoller.RegisterObserver(System.Func{System.Collections.Generic.IEnumerable{Okanshi.Metric},System.Threading.Tasks.Task})">
+<summary>
+ Register an observer
+</summary>
+</member>
+<member name="M:Okanshi.MetricMonitorRegistryPoller.PollMetrics">
+<summary>
+ Force poll the monitors from the registry
+</summary>
+</member>
+<member name="M:Okanshi.MetricMonitorRegistryPoller.Dispose">
+<summary>
+ Disposes the poller, stopping metrics collection
+</summary>
+</member>
+<member name="T:Okanshi.MetricMonitorRegistryPoller">
+<summary>
+ Poller for fetching metrics from a monitor registry
+</summary>
+</member>
+<member name="M:Okanshi.IMetricPoller.UnregisterObserver(System.Func{System.Collections.Generic.IEnumerable{Okanshi.Metric},System.Threading.Tasks.Task})">
+<summary>
+ Unregister an observer
+</summary>
+</member>
+<member name="M:Okanshi.IMetricPoller.Stop">
+<summary>
+ Stop polling for new metrics
+</summary>
+</member>
+<member name="M:Okanshi.IMetricPoller.RegisterObserver(System.Func{System.Collections.Generic.IEnumerable{Okanshi.Metric},System.Threading.Tasks.Task})">
+<summary>
+ Register an observer
+</summary>
+</member>
+<member name="M:Okanshi.IMetricPoller.PollMetrics">
+<summary>
+ Force a poll of metrics
+</summary>
+</member>
+<member name="T:Okanshi.IMetricPoller">
+<summary>
+ A poller that can be used to fetch the current values for a list of metrics
+</summary>
+</member>
+<member name="P:Okanshi.Metric.Values">
+<summary>
+ The value
+</summary>
+</member>
+<member name="P:Okanshi.Metric.Tags">
+<summary>
+ The metric tags
+</summary>
+</member>
+<member name="P:Okanshi.Metric.Timestamp">
+<summary>
+ The timestamp where the metric was observed
+</summary>
+</member>
+<member name="P:Okanshi.Metric.Name">
+<summary>
+ Name of the metric
+</summary>
+</member>
+<member name="T:Okanshi.Metric">
+<summary>
+ The metric type
+</summary>
+</member>
+<member name="M:Okanshi.ConsoleObserver.Update(System.Collections.Generic.IEnumerable{Okanshi.Metric})">
+<summary>
+ Update the observer with the specified metrics
+</summary>
+</member>
+<member name="M:Okanshi.ConsoleObserver.Dispose">
+<summary>
+ Dispose the observer
+</summary>
+</member>
+<member name="T:Okanshi.ConsoleObserver">
+<summary>
+ Observer that prints to the Console. An easy way to see that Okanshi is working
+ The serializer function could be e.g. a standard serializer such as newtonsoft Json: 
+ &lt;code&gt;observer = new ConsoleObserver(poller, x =&gt; JsonConvert.SerializeObject(x, Formatting.Indented))&lt;/code&gt;
+</summary>
+</member>
+<member name="M:Okanshi.MemoryMetricObserver.Update(System.Collections.Generic.IEnumerable{Okanshi.Metric})">
+<summary>
+ Update the observer with the specified metrics
+</summary>
+</member>
+<member name="M:Okanshi.MemoryMetricObserver.GetObservations">
+<summary>
+ Get the observations observed
+</summary>
+</member>
+<member name="M:Okanshi.MemoryMetricObserver.Dispose">
+<summary>
+ Dispose the observer
+</summary>
+</member>
+<member name="T:Okanshi.MemoryMetricObserver">
+<summary>
+ Metric observer storing the specified number of observations in memory
+</summary>
+</member>
+<member name="M:Okanshi.IProcessingMetricObserver.GetObservations">
+<summary>
+ Get the observations observed
+</summary>
+</member>
+<member name="T:Okanshi.IProcessingMetricObserver">
+<summary>
+ Observer that can receive updates about metrics and return its accumulated values to someone else
+</summary>
+</member>
+<member name="M:Okanshi.IMetricObserver.Update(System.Collections.Generic.IEnumerable{Okanshi.Metric})">
+<summary>
+ Update the observer with the specified metrics
+</summary>
+</member>
+<member name="T:Okanshi.IMetricObserver">
+<summary>
+ Observer that can receive updates about metrics
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.Timer(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a Timer with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.Timer(System.String)">
+<summary>
+ Get or create a Timer, with a step size of 1 minute
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.SlaTimer(System.String,System.TimeSpan,Okanshi.Tag[])">
+<summary>
+ Get or create a SLA-Timer with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.SlaTimer(System.String,System.TimeSpan)">
+<summary>
+ Get or create a SLA-Timer, with a step size of 1 minute
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.PerformanceCounter(Okanshi.PerformanceCounterConfig,System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a performance counter monitor with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.PerformanceCounter(Okanshi.PerformanceCounterConfig,System.String)">
+<summary>
+ Get or create a performance counter monitor
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.MinMaxAvgGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a MinMaxAvgGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.MinMaxAvgGauge(System.String)">
+<summary>
+ Get or create a MinMaxAvgGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.MinGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a MinGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.MinGauge(System.String)">
+<summary>
+ Get or create a MinGauge
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.MaxGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a MaxGaug with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.MaxGauge(System.String)">
+<summary>
+ Get or create a MaxGauge 
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.LongGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a LongGauge
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.LongGauge(System.String)">
+<summary>
+ Get or create a LongGauge
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.Gauge``1(System.String,System.Func{``0},Okanshi.Tag[])">
+<summary>
+ Get or create a Gauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.Gauge``1(System.String,System.Func{``0})">
+<summary>
+ Get or create a Gauge
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.DoubleGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a DoubleGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.DoubleGauge(System.String)">
+<summary>
+ Get or create a DoubleGauge
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.DoubleCounter(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a DoubleCounter
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.DoubleCounter(System.String)">
+<summary>
+ Get or create a DoubleCounter
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.DecimalGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a DecimalGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.DecimalGauge(System.String)">
+<summary>
+ Get or create a DecimalGauge
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.CumulativeCounter(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a CumulativeCounter with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.CumulativeCounter(System.String)">
+<summary>
+ Get or create a CumulativeCounter
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.Counter(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a PeakRateCounter with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.Counter(System.String)">
+<summary>
+ Get or create a PeakRateCounter
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.AverageGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a AverageGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.MonitorFactory.AverageGauge(System.String)">
+<summary>
+ Get or create a AverageGauge
+</summary>
+</member>
+<member name="T:Okanshi.MonitorFactory">
+<summary>
+ factory to create monitors sharing the same polling frequency
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.Timer(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a Timer with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.Timer(System.String)">
+<summary>
+ Get or create a Timer, with a step size of 1 minute
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.SlaTimer(System.String,System.TimeSpan,Okanshi.Tag[])">
+<summary>
+ Get or create a SLA-Timer with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.SlaTimer(System.String,System.TimeSpan)">
+<summary>
+ Get or create a SLA-Timer, with a step size of 1 minute
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.PerformanceCounter(Okanshi.PerformanceCounterConfig,System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a performance counter monitor with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.PerformanceCounter(Okanshi.PerformanceCounterConfig,System.String)">
+<summary>
+ Get or create a performance counter monitor
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.MinMaxAvgGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a MinMaxAvgGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.MinMaxAvgGauge(System.String)">
+<summary>
+ Get or create a MinMaxAvgGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.MinGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a MinGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.MinGauge(System.String)">
+<summary>
+ Get or create a MinGauge
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.MaxGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a MaxGaug with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.MaxGauge(System.String)">
+<summary>
+ Get or create a MaxGauge 
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.LongGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a LongGauge
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.LongGauge(System.String)">
+<summary>
+ Get or create a LongGauge
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.DoubleGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a DoubleGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.DoubleGauge(System.String)">
+<summary>
+ Get or create a DoubleGauge
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.DoubleCounter(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a DoubleCounter
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.DoubleCounter(System.String)">
+<summary>
+ Get or create a DoubleCounter
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.DecimalGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a DecimalGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.DecimalGauge(System.String)">
+<summary>
+ Get or create a DecimalGauge
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.CumulativeCounter(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a CumulativeCounter with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.CumulativeCounter(System.String)">
+<summary>
+ Get or create a CumulativeCounter
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.Counter(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a PeakRateCounter with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.Counter(System.String)">
+<summary>
+ Get or create a PeakRateCounter
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.AverageGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a AverageGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.AbsentMeasurementsFilterFactory.AverageGauge(System.String)">
+<summary>
+ Get or create a AverageGauge
+</summary>
+</member>
+<member name="T:Okanshi.AbsentMeasurementsFilterFactory">
+<summary>
+ The AbsentFilterFactory can create monitors wrapped in an absent filter preventing okanshi from 
+ sending 0-values when no measurements are made
+</summary>
+</member>
+<member name="P:Okanshi.OkanshiMonitor.DefaultTags(System.Collections.Generic.ISet{Okanshi.Tag})">
+<summary>
+ Gets the default tags added to all monitors created
+ Sets the default tags added to all monitors created
+</summary>
+</member>
+<member name="P:Okanshi.OkanshiMonitor.WithAbsentFiltering">
+<summary>
+ factory for zero value filtering
+</summary>
+</member>
+<member name="P:Okanshi.OkanshiMonitor.DefaultTags">
+<summary>
+ Gets the default tags added to all monitors created
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.Timer(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a Timer with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.Timer(System.String)">
+<summary>
+ Get or create a Timer, with a step size of 1 minute
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.SlaTimer(System.String,System.TimeSpan,Okanshi.Tag[])">
+<summary>
+ Get or create a SLA-Timer with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.SlaTimer(System.String,System.TimeSpan)">
+<summary>
+ Get or create a SLA-Timer, with a step size of 1 minute
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.PerformanceCounter(Okanshi.PerformanceCounterConfig,System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a performance counter monitor with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.PerformanceCounter(Okanshi.PerformanceCounterConfig,System.String)">
+<summary>
+ Get or create a performance counter monitor
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.MinMaxAvgGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a MinMaxAvgGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.MinMaxAvgGauge(System.String)">
+<summary>
+ Get or create a MinMaxAvgGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.MinGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a MinGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.MinGauge(System.String)">
+<summary>
+ Get or create a MinGauge
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.MaxGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a MaxGaug with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.MaxGauge(System.String)">
+<summary>
+ Get or create a MaxGauge 
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.LongGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a LongGauge
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.LongGauge(System.String)">
+<summary>
+ Get or create a LongGauge
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.Gauge``1(System.String,System.Func{``0},Okanshi.Tag[])">
+<summary>
+ Get or create a Gauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.Gauge``1(System.String,System.Func{``0})">
+<summary>
+ Get or create a Gauge
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.DoubleGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a DoubleGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.DoubleGauge(System.String)">
+<summary>
+ Get or create a DoubleGauge
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.DoubleCounter(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a DoubleCounter
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.DoubleCounter(System.String)">
+<summary>
+ Get or create a DoubleCounter
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.DecimalGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a DecimalGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.DecimalGauge(System.String)">
+<summary>
+ Get or create a DecimalGauge
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.CumulativeCounter(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a CumulativeCounter with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.CumulativeCounter(System.String)">
+<summary>
+ Get or create a CumulativeCounter
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.Counter(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a PeakRateCounter with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.Counter(System.String)">
+<summary>
+ Get or create a PeakRateCounter
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.AverageGauge(System.String,Okanshi.Tag[])">
+<summary>
+ Get or create a AverageGauge with custom tags
+</summary>
+</member>
+<member name="M:Okanshi.OkanshiMonitor.AverageGauge(System.String)">
+<summary>
+ Get or create a AverageGauge
+</summary>
+</member>
+<member name="T:Okanshi.OkanshiMonitor">
+<summary>
+ Global monitor factory
+</summary>
+</member>
+</members>
+</doc>

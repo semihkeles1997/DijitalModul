@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijital_Modul", "Dijital_Modul\Dijital_Modul.csproj", "{CC879244-3797-40A2-B33E-33DE3909ADAC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dijital Modul", "..\..\Dijital Modul\Dijital Modul.vdproj", "{6BDB0BA8-08E9-4F94-B63B-E61505E78033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC879244-3797-40A2-B33E-33DE3909ADAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC879244-3797-40A2-B33E-33DE3909ADAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC879244-3797-40A2-B33E-33DE3909ADAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC879244-3797-40A2-B33E-33DE3909ADAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDB0BA8-08E9-4F94-B63B-E61505E78033}.Debug|Any CPU.ActiveCfg = Debug
+		{6BDB0BA8-08E9-4F94-B63B-E61505E78033}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {296C82A4-BF05-4A7C-A14F-361A734215B3}
+	EndGlobalSection
+EndGlobal
